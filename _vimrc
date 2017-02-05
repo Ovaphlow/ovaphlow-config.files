@@ -15,16 +15,16 @@ set confirm
 set backspace=indent
 set autoindent
 set cindent
-"set smartindent
-set tabstop=4
-set softtabstop=4
-set shiftwidth=4
+set smartindent
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
 set expandtab
 
 "set number
 set ruler
 set guioptions-=T
-set lines=28 columns=100
+set lines=24 columns=80
 set laststatus=2
 
 set t_Co=256
