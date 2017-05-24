@@ -25,13 +25,14 @@ set expandtab
 set ruler
 set guioptions-=T
 set lines=24 columns=80
-set laststatus=2
-
 set t_Co=256
 set background=light
 colorscheme primary
 set guifont=Consolas:h11
+set showtabline=2
+set laststatus=2
 
 set nocompatible
-
 set renderoptions=type:directx,renmode:5,taamode:1
+
+set autochdir
